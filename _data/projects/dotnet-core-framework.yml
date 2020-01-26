@@ -10,5 +10,5 @@ upforgrabs:
   name: up-for-grabs
   link: https://github.com/dotnet/corefx/labels/up-for-grabs
 stats:
-  issue-count: 303
-  last-updated: '2019-11-15T14:01:35Z'
+  issue-count: 256
+  last-updated: '2020-01-25T17:25:10Z'
